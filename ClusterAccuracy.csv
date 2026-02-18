@@ -1,0 +1,6 @@
+ClusterStyle,SizeOfCluster,Accuracy
+Sedan,119,0.44537815126050423
+SUV,29,0.7586206896551724
+Jeep,1,1.0
+Pickup,0,0.0
+Van,1,1.0
